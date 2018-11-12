@@ -1,0 +1,33 @@
+.App-logo {
+    border-radius: 50%;
+    background-image: url("http://avena.io/img/avena_stripe.png");
+    background-repeat: no-repeat;
+    background-size:  99%;
+    background-position: center; 
+    animation: App-logo-spin infinite 20s linear;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .App-header {
+      margin-top:20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }

@@ -1,0 +1,9 @@
+.card{
+    cursor: pointer;
+}
+
+.modal-background{
+    background-color: #31D2F4;
+    background-image: -webkit-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
+    background-image: -ms-linear-gradient( 25deg, rgb(239,61,136) 0%, rgb(246,126,97) 61%, rgb(253,190,57) 100%);
+}
